@@ -1,0 +1,37 @@
+baseurl = "https://jopp.lt"
+title = "jopplt"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+  author = "Josep Palet"
+  info = "Software Engineer"
+  description = "Welcome to my personal website!"
+  keywords = "software,engineer,blog,developer,personal"
+  gravatar = "jmpalet@gmail.com"
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jopplt/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/jopplt/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/jopplt/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 4
+  url = "https://linkedin.com/in/jmpalet/"
