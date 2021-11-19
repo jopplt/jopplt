@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jopp.lt/sitemap.xml

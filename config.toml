@@ -3,6 +3,8 @@ title = "jopplt"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
 
 [params]
   author = "Josep Palet"
