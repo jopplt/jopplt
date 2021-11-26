@@ -1,4 +1,4 @@
-baseurl = "https://jopp.lt"
+baseurl = "https://jopplt.me"
 title = "jopplt"
 theme = "hugo-coder"
 languagecode = "en"
