@@ -10,7 +10,7 @@ disableKinds = ['taxonomy', 'term']
   author = "Josep Palet"
   info = "Software Engineer"
   description = "Welcome to my personal website!"
-  keywords = "software,engineer,blog,developer,personal"
+  keywords = "software,engineer,developer,josep,palet,jopplt,personal,website"
   gravatar = "jmpalet@gmail.com"
 
   colorScheme = "auto"
