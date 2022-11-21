@@ -27,4 +27,4 @@ disableKinds = ['taxonomy', 'term']
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 4
-  url = "https://linkedin.com/in/jmpalet/"
+  url = "https://linkedin.com/in/jopplt/"
